@@ -3,7 +3,7 @@ import get from 'lodash/get'
 import { Link } from 'gatsby'
 import Menu from '../Menu'
 import Links from '../Links'
-import profilePic from '../../pages/photo.jpg'
+import profilePic from '../../pages/headshot.png'
 import './style.scss'
 
 class Sidebar extends React.Component {
@@ -41,7 +41,7 @@ class Sidebar extends React.Component {
               {author.name}
             </Link>
           </h2>
-        )}
+          )}
         <p className="sidebar__author-subtitle">{subtitle}</p>
       </div>
     )

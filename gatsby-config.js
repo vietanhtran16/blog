@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     url,
     siteUrl: url,
-    title: 'Blog by Viet Anh Tran',
+    title: 'Blog by Viet Tran',
     subtitle:
       'Passionate about building software.',
     copyright: '© All rights reserved.',

@@ -29,12 +29,9 @@ module.exports = {
     ],
     author: {
       name: 'Viet Anh Tran',
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vk: '#',
+      email: 'tranvietanh1996@gmail.com',
+      github: 'vietanhtran16',
+      linkedin: 'https://www.linkedin.com/in/viet-anh-tran-ba15a3a4/',
     },
   },
   plugins: [

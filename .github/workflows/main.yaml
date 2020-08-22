@@ -4,7 +4,6 @@ on: [push]
 
 env:
   NODE_VERSION: "12.x"
-  ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   deploy:
@@ -25,3 +24,5 @@ jobs:
             ${{ runner.os }}-yarn-
       - run: yarn --frozen-lockfile
       - run: yarn deploy
+        env:
+          ACCESS_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}

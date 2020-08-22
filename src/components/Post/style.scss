@@ -47,6 +47,7 @@
                 font-size: $typographic-small-font-size;
                 color: $color-secondary;
                 font-weight: 500;
+                text-transform: lowercase;
                 &:hover,
                 &:focus {
                     color: $color-primary;

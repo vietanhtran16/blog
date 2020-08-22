@@ -1,6 +1,6 @@
 ---
 title: Redux 101
-date: "2018-10-18T16:51:00.000Z"
+date: "2018-01-10T16:51:00.000Z"
 layout: post
 draft: false
 path: "/posts/redux-101/"

@@ -12,7 +12,7 @@ module.exports = {
     subtitle:
       'Passionate about building software.',
     copyright: '© All rights reserved.',
-    disqusShortname: '',
+    disqusShortname: 'vietanhtranblog',
     menu: [
       {
         label: 'Articles',

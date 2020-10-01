@@ -8,4 +8,4 @@ path: "/contact"
 
 [Linkedin](https://www.linkedin.com/in/viet-anh-tran-ba15a3a4/)
 
-[Email](mailto:tranvietanh1996@gmail.com)
+[Email](mailto:mail@vietanhtran.tech)

@@ -12,4 +12,4 @@ explore the DevOps world.
 Apart from software development, I also enjoy travelling and playing sports
 such as football or swimming.
 
-[Want to know more about me?](Viet_Anh Tran.pdf)
+[Want to know more about me?](Viet_Anh_Tran_CV.pdf)

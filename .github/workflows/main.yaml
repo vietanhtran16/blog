@@ -28,4 +28,4 @@ jobs:
       - run: ./scripts/set-up-git.sh
       - run: yarn deploy
         env:
-          ACCESS_TOKEN: ${{ github.token }}
+          ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
